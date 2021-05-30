@@ -1,0 +1,2 @@
+# object-detection-using-trigger-word
+We aim to develop an application that makes use of Natural Language Processing (NLP) and Digital Image Processing to assist visually impaired individuals using a voice activation and object detection model with audio feedback, which allows the individual to get an audio output of any object present in front of a camera after the system recognizes a trigger word on which it was trained on.
